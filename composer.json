@@ -1,12 +1,12 @@
 {
-    "name": "rizaArif/wablas",
+    "name": "rizarf/wablas",
     "description": "Official Wablas Plugin",
     "type": "project",
     "license": "MIT",
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "RizaArif\\Wablas\\": "src/"
+            "Rizarf\\Wablas\\": "src/"
         }
     },
     "require": {}
